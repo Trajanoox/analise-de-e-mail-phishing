@@ -17,5 +17,7 @@ O objetivo desse projeto é fazer análises de exemplos de e-mail phishing, obse
 
 - [AbuseIPDB](https://www.abuseipdb.com/)
 - [VirusTotal](https://www.virustotal.com/gui/home/search)
-- [EML Analyzer](https://eml-analyzer.herokuapp.com/#/)
-- [Whois Lookup](https://whois.domaintools.com/)
+- [MxToolbox](https://mxtoolbox.com/EmailHeaders.aspx)
+  
+## Análise
+
